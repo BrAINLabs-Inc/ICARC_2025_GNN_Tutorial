@@ -1,6 +1,6 @@
 # **Graph Neural Networks - From Zero to Hero**
 
-This repository contains materials used for the **ICAC 2022 (4th International Conference on Advancements in Computing) Workshop** on **Graph Neural Networks: Theory and Applications**.
+This repository contains materials used for the **International Conference on Advanced Research in Computing (ICARC-2025)** on **Graph Neural Networks - From Zero to Hero**.
 
 ## 📌 Workshop Overview
 
