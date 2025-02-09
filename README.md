@@ -2,7 +2,18 @@
 
 This repository contains materials used for the **International Conference on Advanced Research in Computing (ICARC-2025)** on **Graph Neural Networks - From Zero to Hero**.
 
-## 📌 Workshop Overview
+## GNN Tutorial Schedule
+
+| Time Duration         | Description                                      | Resource Person            |
+|----------------------|------------------------------------------------|----------------------------|
+| 8:30 – 9:10 (40 min) | - Introduction to tutorial  <br> - Introduction to GNN and its applications <br> - Basic graph theory <br> - Graph neural networks <br> - Message passing GNN (MPGNN) | Dr. Mahima Weerasinghe    |
+| 9:10 - 9:20 (10 min) | **Break**                                      |                            |
+| 9:20 – 10:00 (40 min) | - GCN architecture <br> - GAT architecture     | Mr. Sanka Mohottala        |
+| 10:00 – 10:40 (40 min) | - GNN application (Coding session)             | Mr. Asiri Gawesha          |
+| 10:40 – 11:20 (40 min) | - New frontiers of GNN                         | Mr. Jeewaka Perera         |
+| 11:20 – 11:30 (10 min) | - Q and A session                              | All resource persons will be present |
+
+## 📌 Tutorial Resources
 
 Our workshop is divided into five sessions:
 
